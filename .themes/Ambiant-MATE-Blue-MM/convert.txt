@@ -1,0 +1,3 @@
+Used to convert most green PNGs:
+
+for f in *.png; do convert $f -channel rgba -separate -swap 0,1 -swap 0,2 -combine blue/$f; done

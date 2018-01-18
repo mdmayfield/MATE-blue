@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Ambiant-MATE-Blue-MM
+Comment=Ambiant MATE theme with Blue mod by MM
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Ambiant-MATE-Blue-MM
+MetacityTheme=Ambiant-MATE-Blue-MM
+IconTheme=Ambiant-MATE-Blue-MM
+CursorTheme=DMZ-White
+ButtonLayout=close,minimize,maximize:
